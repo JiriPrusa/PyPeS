@@ -1,0 +1,1 @@
+Modification of old Prusa i3 MK1 3D printer to automatic peptide synthesizer. There is a GUI in python that allows user to translate the synthesis steps into the commands for printer firmware (gcode). 3D models of syringe holder and eagle PCB design for servo motors driver.
